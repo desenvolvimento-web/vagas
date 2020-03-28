@@ -4,8 +4,8 @@
 
 🏢 Espaço para divulgação de vagas em desenvolvimento web (e correlatas).
 
-As vagas estão disponíveis como issues nesse repositório.<br>
-Use as tags para filtra-las.
+As vagas estão disponíveis como [issues](https://github.com/desenvolvimento-web/vagas/issues) nesse repositório.<br>
+Use as [tags](https://github.com/desenvolvimento-web/vagas/labels) para filtra-las.
 
 Se você não tem um perfil no GitHub e quer postar uma vaga, ela ainda pode ser feita no [grupo do Facebook](https://www.facebook.com/groups/desenvolvimentoweb/).
 
