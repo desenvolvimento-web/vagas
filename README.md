@@ -1,6 +1,6 @@
-# Work in Progress
+> ⚠️ Work in Progress
 
-# vagas
+# Vagas
 
 🏢 Espaço para divulgação de vagas em desenvolvimento web (e correlatas).
 
